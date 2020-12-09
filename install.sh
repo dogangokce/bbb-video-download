@@ -9,10 +9,10 @@ apt install -yq gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2 li
   ca-certificates fonts-liberation libappindicator1 libnss3 lsb-release xdg-utils wget
 
 # download node12 binaries
-wget https://nodejs.org/dist/v12.18.3/node-v12.18.3-linux-x64.tar.xz
-tar -xf node-v12.18.3-linux-x64.tar.xz
-mv node-v12.18.3-linux-x64 node12
-rm node-v12.18.3-linux-x64.tar.xz
+wget https://nodejs.org/dist/v12.20.0/node-v12.20.0-linux-x64.tar.xz
+tar -xf node-v12.20.0-linux-x64.tar.xz
+mv node-v12.20.0-linux-x64 node12
+rm node-v12.20.0-linux-x64.tar.xz
 
 # install node_modules
 ./node12/bin/npm install
