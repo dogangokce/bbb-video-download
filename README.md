@@ -22,7 +22,7 @@ Tested with BigBlueButton v2.2.23.
 
 ```bash
 cd /opt
-git clone https://github.com/tilmanmoser/bbb-video-download.git
+git clone https://github.com/dogangokce/bbb-video-download.git
 cd bbb-video-download
 chmod u+x install.sh
 sudo ./install.sh
