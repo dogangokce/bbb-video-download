@@ -25,7 +25,7 @@ sudo apt install docker docker-compose
 cd /opt
 
 ## github'dan kaynağı getir
-git clone https://github.com/tilmanmoser/bbb-video-download.git
+git clone https://github.com/dogangokce/bbb-video-download.git
 cd bbb-video-download
 
 ## docker-compose ile uygulama derleyin
@@ -150,7 +150,7 @@ sudo apt install docker docker-compose
 cd /opt
 
 ## fetch source from github
-git clone https://github.com/tilmanmoser/bbb-video-download.git
+git clone https://github.com/dogangokce/bbb-video-download.git
 cd bbb-video-download
 
 ## build app with docker-compose
